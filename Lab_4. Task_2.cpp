@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+    setlocale (LC_ALL, "RU");
     int num, sum = 0;
     cin >> num;
     for (int i=2; i <= num; i+=2)
