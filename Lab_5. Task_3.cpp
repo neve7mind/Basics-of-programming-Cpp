@@ -20,8 +20,8 @@ float GMean(float X, float Y)
 int main()
 {
 	float A, B, C, D;
-    cin >> A >> B >> C >> D;
-    cout << AMean(A, B) << " " << GMean(A, B) <<  endl;
+    	cin >> A >> B >> C >> D;
+    	cout << AMean(A, B) << " " << GMean(A, B) <<  endl;
 	cout << AMean(A, C) << " " << GMean(A, C) << endl;
 	cout << AMean(A, D) << " " << GMean(A, D) << endl;
 
