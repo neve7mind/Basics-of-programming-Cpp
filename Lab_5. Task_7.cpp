@@ -18,8 +18,12 @@ void InvDigits (unsigned int K)
 int main()
 {
     unsigned int K;
-    cin >> K;
-    InvDigits(K);
+    for (int i=0; i<5; i++)
+    {
+        cin >> K;
+        InvDigits(K);
+        cout << endl;
+    }
     
     return 0;
 }
