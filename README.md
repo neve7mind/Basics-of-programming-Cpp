@@ -1,1 +1,1 @@
-Here you can find some simple, but important for beginners, tasks that go up in complexity
+Here you can find some simple, but important for beginners, CPP tasks that go up in complexity
